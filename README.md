@@ -7,7 +7,8 @@
 Learning Python - Band name generator
 
 This is the first repo of Python journey.
-Day 1 of learning Python: starting with basics functions
+
+Session 1 of learning Python: starting with basics functions.
 
 ## Versions
 
